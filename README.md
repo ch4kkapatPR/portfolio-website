@@ -4,4 +4,4 @@ A Portfolio Normal Website with some of good feature and clean UI
 We use 
 - HTML to make a basic layout for website
 - CSS to make the UI look good and clean
-- JS use you add some functions
+- JS use to add some functions
